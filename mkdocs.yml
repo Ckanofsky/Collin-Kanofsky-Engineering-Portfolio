@@ -1,11 +1,6 @@
 site_name: Collin Kanofsky Engineering Portfolio
 
-theme:
-  name: null
-  custom_dir: 'cinder'
-  plugins:
-    - search
-    - awesome-pages
+theme: moonstone
 
 
 nav:
