@@ -1,0 +1,7 @@
+site_name: Collin Kanofsky Engineering Portfolio
+
+theme: cinder
+
+nav:
+    - Home: index.md
+    - About: about.md
